@@ -20,6 +20,6 @@ I'm David, software developer @ Fujifilm and I'm based in New Zealand, Auckland.
 * Gyopo from Korea :kr: but the Fam & I live in NZ :new_zealand:
 * I am a Brazilian Jiu Jitsu player 
 
-## #30NitesOfCode:
+#30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@davidleeis73346/30-nites-of-code)  
   ![@davidleeis73346 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=davidleeis73346)
