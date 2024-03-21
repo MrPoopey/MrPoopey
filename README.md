@@ -1,4 +1,4 @@
-### Hi there 👋
+### Onion Haseyo there 👋
 
 <!--
 **MrPoopey/MrPoopey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm David, software developer @ Fujifilm and I'm based in New Zealand, Auckland.
+
+## About Me
+* Gyopo from Korea :kr: but the Fam & I live in NZ :new_zealand:
+* I am a Brazilian Jiu Jitsu player 
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@davidleeis73346/30-nites-of-code)  
+  ![@davidleeis73346 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=davidleeis73346)
